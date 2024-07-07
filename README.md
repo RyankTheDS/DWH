@@ -15,4 +15,4 @@ In this repository, you will find SQL code for:
   <li>Business Intelligence Reports</li>  
 </ul>
 
-If you are interested in the documentation, you may refer to the pdf report that was uploaded into this repository. You will find the star schema in it.
+If you are interested in the documentation, you may refer to the pdf report that was uploaded into this repository. You will find the star schema in it. The outputs of the SQL queries and visualisations from Microsoft Excel can be found in there as well.  
